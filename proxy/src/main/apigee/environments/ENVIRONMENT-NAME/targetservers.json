@@ -1,0 +1,11 @@
+[
+    {
+        "name": "products",
+        "host": "cloud.hipster.s.apigee.com",
+        "port": 443,
+        "isEnabled" : true,
+        "sSLInfo": {
+            "enabled": true
+        }
+    }
+]
