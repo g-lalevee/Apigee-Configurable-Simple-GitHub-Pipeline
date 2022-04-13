@@ -20,6 +20,7 @@ The CICD pipeline includes:
   [setup-gcloud GitHub Action](https://github.com/google-github-actions/setup-gcloud)
 
 
+
 ### API Proxy and Apigee configuration
 
 The folder [./proxy](./proxy) includes a simple Configurable API proxy bundle, as well as the following resources:
