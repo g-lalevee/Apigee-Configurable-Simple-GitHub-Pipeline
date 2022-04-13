@@ -103,7 +103,7 @@ git push -u origin feature/cicd-pipeline
 
 ### GitHub: Secret Configuration 
 
-Add GitHub secrets `APIGEE_CREDS_USR` and `APIGEE_CREDS_PSW`, to store your GCP Service Account json key::
+Add GitHub secrets `GCP_CREDENTIALS` to store your GCP Service Account json key::
 - Go to your repository’s **Settings** > **Secrets** > **Action**.
 - Click the **New Repository Secret** button.<BR>Fill in the details:
   - Name: GCP_CREDENTIALS
